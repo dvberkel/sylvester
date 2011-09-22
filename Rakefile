@@ -1,4 +1,5 @@
 require 'rake'
+require 'rubygems'
 require 'fileutils'
 
 SOURCE_DIR = 'src'
